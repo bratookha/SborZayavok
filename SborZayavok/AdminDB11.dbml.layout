@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AdminDB11">
+  <DataContextMoniker Name="/AdminDB11DataContext" />
+  <nestedChildShapes>
+    <classShape Id="3ef34bad-4944-4b92-8902-5b1bb3274318" absoluteBounds="3.125, 0.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/AdminDB11DataContext/BazaMasterov" />
+      <nestedChildShapes>
+        <elementListCompartment Id="137e17af-7362-4b53-9515-9e17a2dd4848" absoluteBounds="3.1399999999999997, 1.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d270e7b2-a635-429f-a238-50e976534132" absoluteBounds="0.5, 0.625, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/AdminDB11DataContext/spisokzayavok11" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4ef60771-d974-4238-83a3-d561afedf230" absoluteBounds="0.51499999999999968, 1.085, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

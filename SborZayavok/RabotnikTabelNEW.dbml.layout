@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RabotnikTabelNEW">
+  <DataContextMoniker Name="/RabotnikTabelNEWDataContext" />
+  <nestedChildShapes>
+    <classShape Id="21264bfc-24c9-46c3-8b25-e679da400775" absoluteBounds="4, 1, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/RabotnikTabelNEWDataContext/rabotniki2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0b621461-3964-4ef3-bfa8-193991244050" absoluteBounds="4.015, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ce1db7d-168b-476c-832d-adbf39b6c4fc" absoluteBounds="3.5, 3, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/RabotnikTabelNEWDataContext/spisokzayavok2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71d49c0b-af90-4fd5-a93a-65cfde1b5189" absoluteBounds="3.515, 3.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

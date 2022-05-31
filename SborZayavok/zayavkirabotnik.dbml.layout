@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="zayavkirabotnik">
+  <DataContextMoniker Name="/zayavkirabotnikDataContext" />
+  <nestedChildShapes>
+    <classShape Id="203ff747-0d44-4b12-846d-71669257af51" absoluteBounds="4.125, 1.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/zayavkirabotnikDataContext/rabotniki1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2293028e-1ddb-4af9-8f31-99684256867a" absoluteBounds="4.14, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc3385c8-9966-45a5-b41b-b0e950bb93b0" absoluteBounds="3.75, 3.125, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/zayavkirabotnikDataContext/spisokzayavok12" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1277aed4-bba2-433e-9a9f-e50b125d2831" absoluteBounds="3.765, 3.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
